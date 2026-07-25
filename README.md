@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante a disciplina **Automação e Testes em API**, com foco na execução de testes funcionais e implementação de uma pipeline de Integração Contínua (CI) utilizando **GitHub Actions**.
 
-![GitHub Actions](docs/actions-success.png)
+<img width="1235" height="507" alt="Image" src="https://github.com/user-attachments/assets/015b21b3-9a6f-4115-a8ed-6d46f74d2c02" />
 
 ---
 
@@ -51,7 +51,7 @@ nexus-api
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ### 1. Clonar o projeto
 
@@ -85,7 +85,7 @@ http://localhost:3000
 
 ---
 
-## 🔍 Health Check
+## Health Check
 
 ```http
 GET /api/health
@@ -130,7 +130,7 @@ npm run lint
 
 ---
 
-## 🔄 Pipeline CI
+## Pipeline CI
 
 A pipeline foi implementada utilizando **GitHub Actions**.
 
@@ -189,15 +189,17 @@ O relatório técnico contém:
 
 ---
 
-## Autora
+## Professor
 
-**Alexsandra Tavares **
+**Bruno Álexy**
+
+## Colaboradora
+
+**Alexsandra Tavares**
 
 Formação DevOps – FAP Softex Pernambuco
 
 Julho/2026
-
----
 
 ## Projeto acadêmico
 
